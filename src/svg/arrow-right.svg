@@ -1,1 +1,5 @@
-<svg focusable="false" viewBox="0 0 1000 1000"><path d="M694 242l249 250c12 11 12 21 1 32L694 773c-5 5-10 7-16 7s-11-2-16-7c-11-11-11-21 0-32l210-210H68c-13 0-23-10-23-23s10-23 23-23h806L662 275c-21-22 11-54 32-33z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+<g opacity="0.5">
+<path d="M7 14L12 9L7 4" stroke="black" stroke-width="1.125" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
